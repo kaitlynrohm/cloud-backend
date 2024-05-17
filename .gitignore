@@ -1,0 +1,5 @@
+DigiCertGlobalRootCA.crt.pem
+.env
+node_modules
+ap-southeast-2-bundle.pem
+global-bundle.pem
